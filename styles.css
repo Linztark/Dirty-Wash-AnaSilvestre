@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #162a37;
+    font-family: Arial, sans-serif;
+}
+
+.contenedor {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    margin-bottom: 40px;
+}
+
+.botones {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.btn {
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 8px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: 0.3s ease;
+    border: none;
+}
+
+/* Botón Multimedia */
+.btn-multimedia {
+    background-color: #FFC800;
+    color: #162a37;
+}
+
+.btn-multimedia:hover {
+    background-color: #e6b800;
+}
+
+/* Botón Accesibilidad */
+.btn-accesibilidad {
+    background-color: #ffffff;
+    color: #162a37;
+}
+
+.btn-accesibilidad:hover {
+    background-color: #dddddd;
+}
