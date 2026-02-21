@@ -35,12 +35,12 @@ h1 {
 
 /* Botón Responsive */
 .btn-responsive {
-    background-color: #dddddd;
+    background-color: #8ecae6;
     color: #162a37;
 }
 
 .btn-responsive:hover {
-    background-color: #ffffff;
+    background-color: #6fbad9;
 }
 
 /* Botón Multimedia */
@@ -61,4 +61,14 @@ h1 {
 
 .btn-accesibilidad:hover {
     background-color: #dddddd;
+}
+
+/* Botón Usabilidad */
+.btn-usabilidad {
+    background-color: #44c1b2;
+    color: #162a37;
+}
+
+.btn-usabilidad:hover {
+    background-color: #33a89a;
 }
