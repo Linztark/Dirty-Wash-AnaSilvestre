@@ -33,6 +33,16 @@ h1 {
     border: none;
 }
 
+/* Botón Responsive */
+.btn-responsive {
+    background-color: #dddddd;
+    color: #162a37;
+}
+
+.btn-responsive:hover {
+    background-color: #ffffff;
+}
+
 /* Botón Multimedia */
 .btn-multimedia {
     background-color: #FFC800;
